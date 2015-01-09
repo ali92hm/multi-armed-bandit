@@ -35,8 +35,6 @@ python demo.py
 * Not known.
 
 ##To do
-*
-* gitignore
 
 
 ##License
