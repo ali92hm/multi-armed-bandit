@@ -31,11 +31,7 @@ python demo.py
         ├── epsilon_greedy.py       - Epsilon-greedy algorithm
         └── softmax.py              - Softmax algorithm
 
-##Potential Bugs:
-* Not known.
-
+##[Potential Bugs](https://github.com/A92hm/multi-armed-bandit/issues)
 ##To do
-
-
 ##License
 [MIT license](http://opensource.org/licenses/MIT)
